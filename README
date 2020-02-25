@@ -1,0 +1,15 @@
+This is a small blog created during the Udacity Course 'Intro to DevOps'.
+
+It show how to combine the power of AWS services: Lambda, SNS and CloudWatch to solve my small real-world problem.
+
+
+
+As I started with the 60_days_udacity challenge, I never could recall which day of the challenge I am on (is it 11th or 12th?). At this point I already finished the 'github' part and started with the 'Cloud Fundamentals' part. Thus, I decided to use the knowledge acquired to
+
+    * calculate the day with the AWS Lambda (with python as Runtime)
+    * trigger Lambda with AWS CloudWatch event
+    * deliver message to my e-mail with AWS SNS
+
+I consider this small project as an easy and at the same time interesting interplay of 3 AWS services mentioned above.
+
+By the way, this was also the start of my journey with boto3 - the AWS SDK for python.
