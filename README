@@ -10,6 +10,8 @@ As I started with the 60_days_udacity challenge, I never could recall which day 
     * trigger Lambda with AWS CloudWatch event
     * deliver message to my e-mail with AWS SNS
 
+<img src="pictures/CloudWatch-Lambda-SNS-Topic.png" alt="Architectural Diagram" width="700"/>
+
 I consider this small project as an easy and at the same time interesting interplay of 3 AWS services mentioned above.
 
 By the way, this was also the start of my journey with boto3 - the AWS SDK for python.
